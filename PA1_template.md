@@ -67,7 +67,7 @@ p <- p + ggtitle("The average daily activity pattern")
 p + xlab("Interval") + ylab("Number of steps")
 ```
 
-![plot of figure2](figures/figure2.png) 
+![plot of figure2](figures/Figure2.png) 
 
 
 Find the 5-minute interval that contains the maximum number of steps on average across all the days in the dataset.
@@ -127,7 +127,7 @@ p <- p + ggtitle("Total number of steps per day")
 p + xlab("Steps per day")
 ```
 
-![plot of figure3](figures/figure3.png) 
+![plot of figure3](figures/Figure3.png) 
 
 
 Calculate `mean` and `median` total number of steps taken per day.
@@ -174,5 +174,5 @@ p <- p + ggtitle("Activity patterns on weekends and weekdays")
 p + xlab("Interval") + ylab("Number of steps")
 ```
 
-![plot of figure4](figures/figure4.png) 
+![plot of figure4](figures/Figure4.png) 
 
