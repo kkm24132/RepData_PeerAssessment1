@@ -1,8 +1,4 @@
 # Reproducible Research: Peer Assessment 1
-Setup `knitr` options.
-```{r setoptions}
-opts_chunk$set(message = FALSE, fig.width = 6, fig.height = 6)
-```
 Load needed libraries
 ```{r}
 require(plyr)
