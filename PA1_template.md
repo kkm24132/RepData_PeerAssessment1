@@ -35,7 +35,7 @@ p <- p + ggtitle("Total number of steps per day")
 p + xlab("Steps per day")
 ```
 
-![plot of figure1](figures/figure1.png) 
+![plot of figure1](figures/Figure1.png) 
 
 
 Compute the `mean` and `median` total number of steps taken per day.
